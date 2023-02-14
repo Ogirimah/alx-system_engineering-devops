@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d : --output-delimeter="\n" | wc -l 
+cut -d : --output-delimiter="\n" | wc -l 
