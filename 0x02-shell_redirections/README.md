@@ -21,3 +21,4 @@
 19-AZ: Script to replace characters in an input fed to the script
 20-hiago: Script to delete characters from input
 21-reverse: Script to reverse the characters of its input
+22--users_and_homes: Script to print sections of a line or text using unique delimeter
