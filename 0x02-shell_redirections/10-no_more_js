@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -not -type d *.js | rm
+find . -type f -name "*.js" -print | rm
