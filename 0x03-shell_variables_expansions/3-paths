@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d : --output-delimiter="\n" | wc -l 
+echo $PATH | cut ' ' --complement -d : | wc -l 
