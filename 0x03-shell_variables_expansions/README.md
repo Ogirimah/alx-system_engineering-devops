@@ -9,3 +9,5 @@
 7-create_global_variable: Script to create Global variable
 8-true_knowledge: Script to addnumber to a value store in a global variable
 9=divide_and_rule: Script to perform arithmetic operation on 2 global varialbles
+10-love_exponent_breath: Script to run ecponents
+11-binary_to_decimal: Script to convert binary to decimal
